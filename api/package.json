@@ -1,0 +1,10 @@
+{
+  "name": "anam-api",
+  "version": "1.0.0",
+  "description": "API for ANAM notifications",
+  "main": "send-notification.js",
+  "dependencies": {
+    "firebase-admin": "^13.5.0",
+    "cors": "^2.8.5"
+  }
+}
